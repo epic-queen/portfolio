@@ -179,8 +179,8 @@ body {
 .responsive {
     width: 100%;
     height: auto;
-    border-top-left-radius: 251px;
-    border-top-right-radius: 251px;
+    border-top-left-radius: 280px;
+    border-top-right-radius: 280px;
     border-bottom-left-radius: 251px;
     border-bottom-right-radius: 251px;
 }
